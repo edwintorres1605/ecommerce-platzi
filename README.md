@@ -16,20 +16,20 @@ En el siguiente [link de prototipo desktop](https://www.figma.com/proto/bcEVujIz
 
 <details>
 <summary>Click para ver el código</summary>
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
-```
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+    </body>
+    </html>
+
 </details>
 
 - Creo una carpeta assets que incluye las carpetas css e img respectivamente. En la carpeta img creo las carpetas icons y logos y paso allí las imágenes del proyecto que se encuentran en el [repositorio](https://github.com/platzi/curso-frontend-developer-practico). Y en la carpeta css creo el archivo de estilos styles.css
