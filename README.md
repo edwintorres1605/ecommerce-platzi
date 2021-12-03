@@ -14,7 +14,8 @@ En el siguiente [link de prototipo desktop](https://www.figma.com/proto/bcEVujIz
 
 - Creo un archivo index.html con su estructura básica
 
-::: details Click para ver el código
+<details>
+<summary>Click para ver el código</summary>
 ``` html
 
 <!DOCTYPE html>
@@ -30,13 +31,14 @@ En el siguiente [link de prototipo desktop](https://www.figma.com/proto/bcEVujIz
 </body>
 </html>
 ```
-:::
+</details>
 
 - Creo una carpeta assets que incluye las carpetas css e img respectivamente. En la carpeta img creo las carpetas icons y logos y paso allí las imágenes del proyecto que se encuentran en el [repositorio](https://github.com/platzi/curso-frontend-developer-practico). Y en la carpeta css creo el archivo de estilos styles.css
 
 - Edito el <head> cambiando el título por Yard Sale y agrego los links de la fuente Quicksand importada de Google Fonts, y también agrego el link a la hoja de estilos propia.
 
-::: details Click para ver el código
+<details>
+<summary>Click para ver el código</summary>
 ``` html
 
 <title>Yard Sale</title>
@@ -46,11 +48,12 @@ En el siguiente [link de prototipo desktop](https://www.figma.com/proto/bcEVujIz
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/styles.css">
 ```
-:::
+</details>
 
 - En el archivo de estilos styles.css creo las variables de colores que voy a utilizar y agrego la fuente Quicksand al body.
 
-::: details Click para ver el código
+<details>
+<summary>Click para ver el código</summary>
 ``` css
 
 :root {
@@ -65,5 +68,5 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 ```
-:::
+</details>
 
