@@ -24,7 +24,6 @@
 
 @media (max-width: 640px) {
     .secondary-button {
-        width: inherit;
         position: absolute;
         bottom: 24px;
     }
