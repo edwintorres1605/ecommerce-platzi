@@ -1,0 +1,40 @@
+.mobile-menu {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 48px;
+}
+
+.mobile-menu a {
+    text-decoration: none;
+    color: var(--black);
+    font-weight: bold;
+}
+
+.mobile-menu ul {
+    list-style: none;
+}
+
+.mobile-menu ul li {
+    margin-bottom: 24px;
+}
+
+.mobile-menu .email {
+    font-size: var(--sm);
+    font-weight: 300;    
+}
+
+.mobile-menu .sign-out {
+    font-size: var(--sm);
+    color: var(--hospital-green);   
+}
+
+.mobile-menu ul:nth-child(1) {
+    border-bottom: 1px solid var(--very-light-pink);
+    padding-bottom: 24px;
+}
+
+.mobile-menu ul:nth-child(3) li {
+    margin-bottom: 12px;
+}
